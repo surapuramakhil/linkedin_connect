@@ -11,10 +11,10 @@
   // time in ms to wait before new employees load after scroll
   const WAIT_AFTER_SCROLL = 3000;
   // message to connect (%EMPLOYEE% and %COMPANY% will be replaced with real values)
-  const MESSAGE = `Hi %EMPLOYEE%, I'm a Software Engineer with 4 yrs of experience in full-stack web development. 
-	I see you're currently working at %COMPANY% where I saw a Full Stack job post and was interested to hear more about it. 
-	Would you (or a colleague) have time to chat about the position?
-	Thanks! Mario`;
+  const MESSAGE = `Hi %EMPLOYEE%, I hope this message finds you well. My name is Surapuram Akhil, and I am a highly motivated and technically
+  proficient computer science master's graduate with a strong passion for innovation and problem-solving. I am reaching out to express my keen
+  interest in joining your team as a Software Engineer, Data Engineer, or Data Scientist.
+	Thanks! Akhil`;
   // keywords to filter employees in specific positions
   const POSITION_KEYWORDS = [
     "software",
